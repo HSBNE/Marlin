@@ -1,3 +1,9 @@
+# HSBNE 3D Printer Firmware
+This fork of Marlin is the version that we're running on the HSBNE 3D printers.
+
+Each printer has it's own changes (mainly configuration) in a separate branch.
+
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
